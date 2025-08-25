@@ -1,0 +1,7 @@
+yfinance
+pandas
+pyyaml
+python-dotenv
+matplotlib
+streamlit
+openai>=1.40.0

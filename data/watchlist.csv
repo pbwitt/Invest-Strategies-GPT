@@ -1,0 +1,5 @@
+symbol,note,active
+QQQ,Signal driver,True
+TQQQ,Trade instrument,True
+BTCFX,Bitcoin Futures,True
+SMPIX,leveraged semi,True
