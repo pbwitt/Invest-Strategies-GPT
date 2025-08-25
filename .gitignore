@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 reports/
 .DS_Store
+# Optional if you don't want real positions public
+# data/holdings.csv
